@@ -2,7 +2,7 @@ package org.example;
 
 public class Demo1 {
     public static void bike(){
-        System.out.println("Hello Bike");
+        System.out.println("Hello Bike123");
 
     }
     public static void main(String[] args) {
